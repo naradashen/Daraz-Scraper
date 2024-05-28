@@ -1,6 +1,6 @@
 # Daraz-Scraper
 
-This project is a web scraper for daraz.lk deals using Selenium. The script navigates through the deals on the Daraz website, extracts product information, and prints it.
+This project is a web scraper for daraz.lk deals using Selenium. The script navigates through the deals categories on the Daraz website, extracts product information, and prints it.
 
 ## Prerequisites
 
